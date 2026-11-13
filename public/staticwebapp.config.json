@@ -9,10 +9,19 @@
       "/*.png",
       "/*.jpg",
       "/*.jpeg",
+      "/*.gif",
+      "/*.webp",
+      "/*.avif",
       "/*.svg",
       "/*.ico",
+      "/*.json",
+      "/*.xml",
+      "/*.txt",
+      "/*.map",
       "/*.woff",
-      "/*.woff2"
+      "/*.woff2",
+      "/*.ttf",
+      "/*.eot"
     ]
   }
 }
